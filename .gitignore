@@ -1,0 +1,6 @@
+.idea
+output
+*.accdb
+*.zip
+hawle_db_schema*
+replace_schema_data.csv
