@@ -9,5 +9,5 @@ if [ ! -d "target/appassembler/bin" ]; then
     mvn -quiet clean install -DskipTests -Djetty.skip
 fi
 
-chmod u+x target/appassembler/bin/*
-target/appassembler/bin/access2csv "$@"
+chmod u+x library/appassembler/bin/*
+library/appassembler/bin/access2csv "$@"

@@ -4,3 +4,8 @@ output
 *.zip
 hawle_db_schema*
 replace_schema_data.csv
+n-usable
+*.odb
+Hawle_Hydranten_Schema
+hydrants_Tables.drawio
+hydrants_Tables.drawio.png
